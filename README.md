@@ -20,3 +20,4 @@ https://github.com/brienjones87/employer-brand-profile-api
 
 ## Some of my favorite free internet toolz:
 https://clippingmagic.com
+https://imgflip.com/memegenerator
